@@ -11,7 +11,7 @@ draft: false
 
 #### _Leveraging serverless functions_
 
-**Bento is a blazing-fast serverless video transcoding pipeline** that takes advantage of the instant scale and concurrent execution of function-as-a-service architecture to parallelize 
+**Bento is a blazing-fast serverless video transcoding pipeline** that takes advantage of the instant scale and concurrent execution of function-as-a-service to parallelize 
 the video transcoding process.
 
 Videos are pulled into hundreds of small, quick to transcode segments and then stitched back together, resulting in 
