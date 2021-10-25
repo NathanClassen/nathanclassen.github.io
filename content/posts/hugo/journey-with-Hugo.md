@@ -22,7 +22,7 @@ I had heard of 'static sites' and static-site generators but really understood t
 
 > "I get to write a slew of html every time I want new content? Tempting..."
 
-Happily I stumbled upon Hakyll (a Haskell library for building static site generators), and became very intrigued and decided to investigate what exactly static-sites are, and where a static site generator comes in.
+Happily I stumbled upon Hakyll (a Haskell library for building static site generators), and was very intrigued. I decided to investigate what exactly static-sites are, and where a static site generator comes in.
 
 Long story short, I discovered the idea of creating content with Markdown (sweet, sweet md); the speed and security benefits of static sites (_everybody's_ going to be after my blog, I'm sure...) and really discovered ssg's for the first time.
 
