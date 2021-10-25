@@ -1,0 +1,7 @@
+{{ define "main"}}
+    <h2>snippets</h2>
+    <p>of code, books and articles; quotes, some mine and others others</p>
+    {{ range .Pages }}
+        {{ .Content }}
+    {{ end }}
+{{end}}

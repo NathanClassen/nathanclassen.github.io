@@ -1,0 +1,8 @@
+---
+title: "Three"
+date: 2021-10-22T17:22:44-06:00
+draft: false
+---
+
+> The shadow of that hyddeous strength sax myle and more it is of length.
+> - Sir David Lyndsay

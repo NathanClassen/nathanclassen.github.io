@@ -1,0 +1,24 @@
+{{ define "main"}}
+    {{ if .Sections }}
+        <h1>sections</h1>
+        <ul>
+            {{ range .Sections}}
+                <a href="{{ .Permalink }}">
+                    <li style="margin-bottom: 10px">
+                        {{ .Title }}
+                    </li>
+                </a>
+            {{ end }}
+        </ul>
+    {{ else }}
+        <ul>
+            {{ range .Pages }}
+                <a href="{{ .Permalink }}">
+                    <li>
+                        {{ .Title }} &nbsp;&nbsp;-&nbsp;&nbsp;  {{ .Date.Format "2006-Jan-02" }}
+                    </li>
+                </a>
+            {{ end }}
+        </ul>
+    {{ end }}
+{{end}}
