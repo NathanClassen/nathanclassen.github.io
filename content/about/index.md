@@ -8,7 +8,7 @@ My name is Nathan Classen.
 
 I am a husband, father, autodidact and software engineer.
 
-This is my personal site wherein write, collect interesting things and so on.
+This is my personal site wherein I write, collect interesting things and so on.
 
 ---
 ## in my toolbox
