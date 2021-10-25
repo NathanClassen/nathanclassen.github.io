@@ -28,6 +28,13 @@ h1 {
     padding: 12px 0;
 }
 
+#social-tray {
+    border-bottom: #777 solid 1px;
+    margin: 0 auto 30px;
+    text-align: center;
+    max-width: max-content;
+}
+
 .pre-img + p {
     text-align: center;
 }
@@ -44,6 +51,20 @@ p img {
     display: inline-block;
     margin: 0 5px;
     width: min-content;
+}
+
+.inline-svg {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.inline-svg svg {
+    width: 30px;
+    height: 30px;
+}
+
+.inline-svg svg:hover {
+    color: blue;
 }
 
 ul p {
