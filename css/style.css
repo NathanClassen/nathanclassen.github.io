@@ -28,8 +28,16 @@ h1 {
     padding: 12px 0;
 }
 
-#home img {
-    height: 150px;
+.pre-img + p {
+    text-align: center;
+}
+
+p img {
+    width: 70%;
+}
+
+#home p img {
+    width: 105px;
 }
 
 .nav-item {
