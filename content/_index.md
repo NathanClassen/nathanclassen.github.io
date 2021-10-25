@@ -7,7 +7,7 @@ draft: false
 # _projects_
 
 # [Bento](https://bento-video.github.io/)
-![Bento icon](Bento.png)  
+![Bento icon](/images/Bento.png)  
 
 #### _Leveraging serverless functions_
 
@@ -21,7 +21,7 @@ lightning fast transcoding jobs.
 
 ---
 # [Cantor](https://cantorpsalms.app/)
-![Cantor icon](Cantor.png)
+![Cantor icon](/images/Cantor.png)
 
 Cantor is a React Native mobile application that I dreamt up, designed, built and deployed.
 
