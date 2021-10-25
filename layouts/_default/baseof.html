@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
+    {{ partial "head.html" .}}
     <div id="base">
-        {{ partial "head.html" .}}
         {{ partial "header" .}}
         <!-- this says, "the 'main' block goes here in the template" -->
         {{ block "main" . }}
