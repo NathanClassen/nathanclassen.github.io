@@ -7,4 +7,4 @@ draft: false
 > The more I love humanity in general the less I love man in particular.
 >
 >
-> - Fyodor Dostoevsky
+> - The Brothers Karamazov, Fyodor Dostoevsky
