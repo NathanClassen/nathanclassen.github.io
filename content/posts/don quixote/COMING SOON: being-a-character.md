@@ -10,5 +10,3 @@ Why do I admire Don Quixote de la Mancha?
 What is the source of his peculiar power?
 
 Stay tuned.
-
-nc
