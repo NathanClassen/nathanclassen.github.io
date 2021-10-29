@@ -65,25 +65,37 @@ It is this knowledge and spirit which informs not only the things Quixote does b
 
 ___
 
-In his travels, our knight naturally encounters many dangers, trials, enemies, companions, mysteries, and so on. In the material world, however, these things are really so many inconveniences, blunders and annoyances.
+## the misfortunes peculiar to knights-errant
+
+In his travels, our knight naturally encounters many dangers, trials, terrible foes, companions, mysteries, and so on. In the material world, however, these things are really so many inconveniences, blunders and annoyances.
 
 During his first ride from home, Quixote comes upon a band of merchants. Perceiving them to be scoundrels, Quixote takes it upon himself to demand a confession from the travelers, that his lady Dulcinea del Toboso is the most glorious woman in the universe. When they refuse his demand, he makes toward them to punish their "licentious blasphemy". Luckily for everyone, his horse stumbles and throws its rider headlong to the ground, rendering him unable to pursue the blasphemers. His own lance is broken in two by one of the mule drivers, and he receives a beating upon the ribs with it.
 
-The man naturally encounters many beatings, meddlers, and failures. We have already mentioned _beauracary_... Yet he does not grumble and faint. Why? Because in reality, these are so many dangers, trials, enemies, companions, mysteries and so on. The laws of chivalry as we have seen. He embraces his lot and all of the attendant these obstacles as wholly befitting such a one as himself.
+The man naturally encounters many beatings, meddlers, and failures. We have already mentioned _beauracary_... Yet he does not grumble and faint. Why? Because in reality, these are so many dangers, trials, enemies, companions, mysteries and so on. The laws of chivalry--as we have seen. He embraces his lot and all of the attendant obstacles as wholly befitting such a one as himself.
 
-Surely this is an unfortunate situation that would upset the best of us. A man sets out to do something good (in his mind anyway) and his good efforts and intentions are thwarted by forces outside of his control. This is a painful and annoying defeat for Quixote. Quite an inconvenience, and yet he is not the least discouraged or downcast. He does not mope about in frustration. Rather the story goes on:
+Surely this is an unfortunate situation that would upset the best of us. A man sets out to do something good (in his mind anyway) and his good efforts and intentions are thwarted by forces outside of his control. This is a painful and annoying defeat for Quixote. Quite an inconvenience, and yet he is not the least discouraged or downcast. He does not mope about in frustration but pursues. The story goes on:
 
 >  ... the Don, who, notwithstanding this storm of blows which descended on him, never shut his mouth, but continued threatening heaven and earth, and those brigands, for such he took the merchants to be.
 
-He pursues the fight. This is a noble cause and he will not be reduced to vain grumbling by the circumstances. For as Cervantes continues:
+Surely this is an occasion for moping. This is the time to let out a manly roar of self-pity. When your plans have been thwarted; when your sterile and wonderful plans for the day have been dashed against some annoyance, now is the hour of sulking come.
+
+Don Quixote may be pursuing the scoundrels with his tongue, but is his heart setting up the furniture for the pity party? Nay.
 
 > He did not, however, look upon himself as unhappy, because this misfortune was, in his opinion, peculiar to knights-errant ...
 
-This is just the kind of setback a knight should expect. And therein lies the source of his power to bear up under trial. Who you are has an effect on what you encounter and will determine how you receive the course of life in whatever way it unfolds.
+This is just the kind of setback a knight should expect. And therein lies the compulsion to bear up under trial.
 
-It would be one thing if our Don was only infatuated with knighthood or liked to present as a nobleman. But in this case, he actually believes he _is_ a knight. He believes and embraces the reality that a man cannot exist without being _a character_ in the world; for him, that character is a knight. To live true to the character involves taking all things as that character would.
+A misfortune encountered by a shapeless, formless, someone is a misfortune. When it is encountered by Don Quixote, it is a misfortune peculiar to knight, and is therefore to be met in a way meet for a knight. With gusto; forbearance; manly persevearance. It is part of the adventure.
 
-(2.3)So these are not potholes and speedhumps on the road to some prize. They are part and parcel of the prize. Part of being who he is. He knows and exults in who he is, and so these are ornaments.
+> “An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered.” ― G.K. Chesterton.
+
+If my suspicions had been correct, and Quixana was a man simply masquerading as a knight for some end be it fame, vain-glory or wealth or whatever, this event and plenty others ought to perturb and derail him; but he is not after some other end. He is a knight and he glories in that as the prize itself. These would be potholes in the road to some prize are part and parcel of the prize. Integral to who he is and so to be relished.
+
+___
+
+So it struck me with the original quote:
+
+> and in the same proportion that Sancho was disgusted at not being able to reach some village, his master was rejoiced at an opportunity of sleeping under the cope of heaven, because he looked upon every occasion of this kind as an act of possession, that strengthened the proof of his knight-errantry.
 
 ___
 3
