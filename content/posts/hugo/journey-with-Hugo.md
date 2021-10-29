@@ -12,7 +12,7 @@ From a design and functionality standpoint, there was not much there. The design
 
 Every visit to my page spawned new ideas for what I eventually wanted it to be. It was to look much more clean and simple. No slight gradient backgrounds. Away with the screen-shots of past projects. I also wanted to add something like a small blog to collect ideas, share whatever I was learning, etc.
 
-Slowly the plan came together, awaiting execution and I am glad to write that the time has finally come, and I have decided to build a new site with Hugo.
+Slowly the plan came together, awaiting execution, and I am glad to write that the time has finally come, and I have decided to build a new site with Hugo.
 
 ### decision time
 
