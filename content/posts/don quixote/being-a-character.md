@@ -4,8 +4,7 @@ date: 2021-10-28T23:39:25-06:00
 draft: true
 ---
 
-
-If by any means I could be convinced that it would benefit my life that I should go mad by reading books of chivalry and knight-errantry—fixating my mind entirely upon that subject—until at last I was entirely persuaded that I was in fact a lofty knight; such that I went galavanting about town questing and adventuring; it would be by means of reading a singular and obscure line in Don Quixote:
+If by any means I could be convinced that it would benefit my life that I should go mad by reading books of chivalry and knight-errantry—fixating my mind entirely upon that subject—until at last I was entirely persuaded that I was in fact a lofty knight; such that I went galavanting about town questing and adventuring, it would be by means of reading a singular and obscure line in Don Quixote:
 
 > “and in the same proportion that Sancho was disgusted at not being able to reach some village, his master was rejoiced at an opportunity of sleeping under the cope of heaven, because he looked upon every occasion of this kind as an act of possession, that strengthened the proof of his knight-errantry”
 
@@ -15,9 +14,9 @@ ___
 1
 ## the man
 
-Don Quixote De La Mancha—or was it something like Quixana—is a man who down to his bones understands who he is. Or at least has completely laid hold of an idea about who he is.
+Don Quixote De La Mancha—or was it something like Quixana—is a man who down to his bones understands who he is. Or at least has completely laid hold of an idea about who he is. In reality he is a man not altogether right in the head who for better or worse has come to believe that he is a noble lord; a protector and a servant of righteousness; a knight.
 
-In reality he is a man not altogether right in the head who for better or worse has come to believe that he is a noble lord; a protector and a servant of righteousness; a knight. As Quixana, the unknown half nobleman, he is so taken with the glory and adventure of knights tales, that he convinces himself that he is in fact a chivalrous knight and must, for the good of all, undertake his own quest. Renaming and re-fashioning himself into Don Quixote, and his near-perishing emaciated horse into Rocinante, he sets off to do exploits.
+As Quixana, the unknown country gentleman, he is so taken with the glory and adventure of knights tales, that he consumes such books with fevered voraciousness, and thereby convinces himself that he is in fact a chivalrous knight and must, for the good of all, undertake his own quest. Renaming and re-fashioning himself into Don Quixote, and his near-perishing emaciated horse into Rocinante, he sets off to do exploits.
 
 The story is a comedy and the humor is found in watching a man who lacks the substance of a true knight nevertheless engage with and react to the world as though he were a knight of the highest order. To see bravado befitting a knight come from the mouth of the likes of Quixote makes for hilarious reading. Observe one of my favorite quips, and one that shall become my regular retort to any slights made against my facial hair... 
 
@@ -25,21 +24,21 @@ His niece wants to suggest that it may be prudent for him to lead a quiet life a
 
 > My dear niece, replied Don Quixote, you are altogether out of your reckoning. Before I be shorn, I will pull and pluck off the beards of all those who pretend to touch a single hair of my mustache.
 
-Gold.
+Inumerable are to occasions wherein the reader gets a good laugh at or with the Don.
 
 Yet I have not been able to stave off a certain admiration for the fellow. I don't admire him in the way one might admire a child who has become caught up in vigorous and skilled make-believe. I admire how he lives so thoroughly and consistently with his own character. Made up or no.
 
 At the start I expected to discover our gallant and intrepid man reduced to a discourteous and limp fellow whenever expediancy demanded it.
 
-What I have found is that the idea of _giving up the act_ when expediancy demands does not seem to be a category for him. There is no sense that he has in mind some grand end for his made-up knighthood. No sense at all that he will put on the knight and remove him again when it is convenient.
+What I have found is that the idea of _giving up the act_ for the sake of expediancy does not seem to be a category for him. There is no sense that he has in mind some grand end for his made-up knighthood. No sense at all that he will put on the knight and remove him again when it is convenient or enjoyable to be one or the other; a sensible land-owner, or a chivalrous knight.
 
-One may puff at that: "being a knight does not sound like such a rough lot. Why should it ever be _convenient_ for him to cease being the hero of fairy tales?"
+One may puff at that, "being a knight does not sound like such a rough lot. Why should it ever be _convenient_ for him to cease being the hero of legends?"
 
-That is understandable. Knights are knighted by the Queen. The feast on pheasant and only deign themselves to speak courage into the hearts of adoring young boys. Yet there is beaucracy, that enemy of the hearts of men, in every occupation. Consider the following.
+That is understandable. Knights are knighted by the Queen. The feast on pheasant and only deign themselves to speak courage into the hearts of adoring young boys. Yet the call is not without common place down-to-earthedness. Even for a knight there is bureaurcracy—that enemy of the hearts of men—which at the first rearing of the head is enough to make a man cut corners. But consider the following:
 
-> but, scare was he clear of the village, when he was assaulted by such a terrible ojection, as had well nigh induced our hero to abandon his enterprose derectly: for, he recollected that he had never been knighted; and therefore, according to the laws of chivalry, he neither could nor ought to enter the lists with any antagonist of that degree
+> but, scare was he clear of the village, when he was assaulted by such a terrible objection, as had well nigh induced our hero to abandon his enterprise directly: for, he recollected that he had never been knighted; and therefore, according to the laws of chivalry, he neither could nor ought to enter the lists with any antagonist of that degree
 
-Quixote, setting off on his first journey suddenly comes to the terrible realization that he has not been properly knighted. Of course, all true and great knights must be ordained and to his dismay, he has not been. Now, if the business of being a knight was a mere means to an end for master Quixote, it would have been just as well to forget the whole issue of ordination. He could have plugged in the GameShark; entered the cheat codes. Or ,to leave the archaic and speak in the vernacular, he could have  modded the game. Simply put, he could have chuckled and gone on his merry way.
+Quixote, setting off on his first journey suddenly comes to the terrible realization that he has not been properly knighted. All true and great knights must thus be ordained and, to his dismay, comes the recollection that he has not been. Now, if the business of being a knight were a mere means to an end for master Quixote, it would have been just as well to forget the whole issue of ordination. He could have plugged in the GameShark; entered the cheat codes. Or to leave the archaic he could have  modded the game. Plainly put, he could have chuckled and gone on his merry way, "this is not the glorious part of my scheme, I shall leave it out."
 
 It is not so with Quixote. This issue of his ordination actually causes him no small amount on consternation, and he immediately resolves to make good and to follow the proper channels. He will seek ordination as swiftly as possible.
 
@@ -47,9 +46,9 @@ The fact that his delusions allow him to be ordained by an inn-keeper and two, e
 
 > ... even granting he had received that mark of distinction, it was his duty to wear white armour, like a new knight, without any device in his shield, until such time as his valour should entitle him to that honor.
 
-So it is not a matter of expediancy or non-expediancy. Quixote is a knight as an end, not a means. Or rather, it is as a knight that he pursues ends with means. Indeed, The Knight is what determines what the ends shall be and what means are appropriate in the pursuit.
+He rejects half-measures all the way down. So it is not a matter of expediancy or non-expediancy. Quixote is a knight as an end, not a means. Or rather, it is as a knight that he pursues ends with means. Indeed, The Knight is what determines what the ends shall be and what means are appropriate in the pursuit.
 
-Quixote knows what character he is and I have not yet seen him shrug this character off. And as I will argue, this character and this _being the character_ in truth, causes Quixote to live fully and to resond well to the pinches and pricks, and in his case the body-slams, that so often and easily, leave the sane people weary and bitter.
+Quixote knows what character he is and I have not yet seen him shrug this character off. It is this character and this _being the character_ in truth, which causes Quixote to live fully and to resond well to the pinches and pricks, and in his case the occasional body-slam, that so often and easily, leave the sane people weary and embittered.
 
 ___
 
@@ -91,10 +90,6 @@ A misfortune encountered by a shapeless, formless, someone is a misfortune. When
 
 If my suspicions had been correct, and Quixana was a man simply masquerading as a knight for some end be it fame, vain-glory or wealth or whatever, this event and plenty others ought to perturb and derail him; but he is not after some other end. He is a knight and he glories in that as the prize itself. These would be potholes in the road to some prize are part and parcel of the prize. Integral to who he is and so to be relished.
 
-___
-
-So it struck me with the original quote:
-
 > and in the same proportion that Sancho was disgusted at not being able to reach some village, his master was rejoiced at an opportunity of sleeping under the cope of heaven, because he looked upon every occasion of this kind as an act of possession, that strengthened the proof of his knight-errantry.
 
 ___
@@ -103,11 +98,13 @@ ___
 
 At this point let me clarify one thing. I am not a knight nor the son of a knight. I do not have aspirations to wonder about seeking to rectify squabbles and conquer cities. That kind of thing is frowned upon these days.
 
-Sancho Panźa is not a knight either. Sancho is <description of him> . Sancho leaves his wife and children to follow Don Quixote on his journey. Why would he do such a thing?
+Sancho Panźa is not a knight either.
+
+Sancho is <description of him> . Sancho leaves his wife and children to follow Don Quixote on his journey.
 
 What motivates Sancho is the prospect of governing an island
 
-> the  quote
+> the  quote where quixote promises him an island
 
 Interestingly (to me anyway) he brings this promise to remembrance in the very same chapter that my quote above is from. It is after a fairly trivial skirmish ...
 
@@ -115,9 +112,7 @@ Sancho is a man driven wholly by his desire for reward. He is a goal-oriented fe
 
 Better that he were inspired to action by who he is; by being a character than inspiration of bare desire.
 
-My argument is not that Sancho or I should aspire to be knights. Rather, that our lives would be fuller and we would understand ourselves and others and the world better if we were to _be_ our characters. I believe that Don Quixote receives life so well because he has completely laid hold of the idea that who he is, his character, is a knight-errant.
-
-This is why he meets challenges with gusto, the lowly with respect, and inconvenience as adventure.
+My argument is not that Sancho or I should aspire to be knights. Rather, that our lives would be fuller and we would understand ourselves and others and the world better if we were to _be_ the characters we are. I believe that Don Quixote receives life so well because he has completely laid hold of the idea that who he is, his character, is a knight-errant.
 ___
 4
 ## meaningless drive
