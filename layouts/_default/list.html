@@ -10,9 +10,11 @@
                 </a>
             {{ end }}
         </ul>
-    {{ else }}
+        <hr>
+    {{ end }}
+    {{ if .RegularPages }}
         <ul>
-            {{ range .Pages }}
+            {{ range .RegularPages }}
                 <a href="{{ .Permalink }}">
                     <li>
                         {{ .Title }} &nbsp;&nbsp;-&nbsp;&nbsp;  {{ .Date.Format "2006-Jan-02" }}
