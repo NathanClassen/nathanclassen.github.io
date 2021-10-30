@@ -10,12 +10,15 @@
                 </a>
             {{ end }}
         </ul>
-    {{ else }}
+        <hr>
+    {{ end }}
+    {{ if .Pages }}
+        <h1>posts</h1>
         <ul>
             {{ range .Pages }}
                 <a href="{{ .Permalink }}">
                     <li>
-                        {{ .Title }} &nbsp;&nbsp;-&nbsp;&nbsp;  {{ .Date.Format "2006-Jan-02" }}
+                        - {{ .Title }} &nbsp;&nbsp;-&nbsp;&nbsp;  {{ .Date.Format "2006-Jan-02" }}
                     </li>
                 </a>
             {{ end }}
