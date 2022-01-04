@@ -12,15 +12,16 @@ unsafe= true
     title = "About"
     url = "/about/"
     weight = -110
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "Posts"
-    url = "/posts/"
-    weight = -100
-  [[menu.main]]
-    identifier = "snippets"
-    name = "snippets"
-    title = "snippets"
-    url = "/snippets/"
-    weight = -80
+# commenting out proceeding items to remove from navigation bar in header
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "posts"
+#    title = "Posts"
+#    url = "/posts/"
+#    weight = -100
+#  [[menu.main]]
+#    identifier = "snippets"
+#    name = "snippets"
+#    title = "snippets"
+#    url = "/snippets/"
+#    weight = -80
