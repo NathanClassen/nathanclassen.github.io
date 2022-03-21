@@ -20,7 +20,7 @@ lightning fast transcoding jobs.
 [read the case study](https://bento-video.github.io/)
 
 ---
-# [Cantor](https://cantorpsalms.app/)
+# [Cantor](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com/cantorSite)
 ![Cantor icon](/images/Cantor.png)
 
 Cantor is a React Native mobile application that I dreamt up, designed, built and deployed.
@@ -28,4 +28,4 @@ Cantor is a React Native mobile application that I dreamt up, designed, built an
 Cantor solves the very practical problem (for a select few I suppose) of needing a complete Psalter pointed for plainchant, as well as 
 a number of plainchant tones at ones finger tips.
 
-[check out my chanting app](https://cantorpsalms.app/)
+[check out my chanting app](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com/cantorSite)
