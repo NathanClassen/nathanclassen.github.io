@@ -28,4 +28,4 @@ Cantor is a React Native mobile application that I dreamt up, designed, built an
 Cantor solves the very practical problem (for a select few I suppose) of needing a complete Psalter pointed for plainchant, as well as 
 a number of plainchant tones at ones finger tips.
 
-[check out my chanting app](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com/cantorSite)
+[check out my chanting app](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com)
