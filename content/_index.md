@@ -20,7 +20,7 @@ lightning fast transcoding jobs.
 [read the case study](https://bento-video.github.io/)
 
 ---
-# [Cantor](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com/cantorSite)
+# [Cantor](https://rhzxok2ys8.execute-api.us-east-1.amazonaws.com)
 ![Cantor icon](/images/Cantor.png)
 
 Cantor is a React Native mobile application that I dreamt up, designed, built and deployed.
