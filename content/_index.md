@@ -6,7 +6,10 @@ draft: false
 
 # _projects_
 
-# [Bento](https://bento-video.github.io/)
+<a href="https://bento-video.github.io/" target="_blank">
+    <h1>Bento</h1>
+</a>
+
 ![Bento icon](/images/Bento.png)  
 
 #### _Leveraging serverless functions_
@@ -17,10 +20,13 @@ the video transcoding process.
 Videos are pulled into hundreds of small, quick to transcode segments and then stitched back together, resulting in 
 lightning fast transcoding jobs.
 
-[read the case study](https://bento-video.github.io/)
+<a href="https://bento-video.github.io/" target="_blank">read the case study</a>
 
 ---
-# [Cantor](https://cantorpsalms.com/)
+<a href="https://cantorpsalms.com" target="_blank">
+    <h1>Cantor</h1>
+</a>
+
 ![Cantor icon](/images/Cantor.png)
 
 Cantor is a React Native mobile application that I dreamt up, designed, built and deployed.
@@ -28,4 +34,4 @@ Cantor is a React Native mobile application that I dreamt up, designed, built an
 Cantor solves the very practical problem (for a select few I suppose) of needing a complete Psalter pointed for plainchant, as well as 
 a number of plainchant tones at ones finger tips.
 
-[check out my chanting app](https://cantorpsalms.com/)
+<a href="https://cantorpsalms.com" target="_blank">check out my chanting app</a>
