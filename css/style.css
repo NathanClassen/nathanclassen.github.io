@@ -1,19 +1,21 @@
 html {
     font-family: 'Vollkorn', serif;
+    font-size: 1.11em;
+    color: #1d1d39;
 }
 
 h1 {
     margin: 0;
-    width: min-content;
+    /* width: min-content; */
 }
 
 #base {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 0 auto 2em;
 }
 
 #header {
-    border-bottom: #000000 solid 2px;
+    border-bottom: #1d1d39 solid 2px;
     margin-bottom: 20px;
     text-align: right;
     width: 100%;
@@ -38,11 +40,14 @@ h1 {
     text-align: center;
 }
 
-p img {
-    width: 70%;
+img {
+    display: block;
+    margin: auto;
+    width: 80%;
 }
 
 #home p img {
+    margin: 0;
     width: 105px;
 }
 
@@ -63,7 +68,7 @@ p img {
 }
 
 .inline-svg svg:hover {
-    color: blue;
+    color: #0707b1;
 }
 
 ul p {
@@ -71,27 +76,32 @@ ul p {
 }
 
 li {
-    list-style-type: none;    
+    list-style-type: none;
+    margin: 0 0 0.5em 0  
+}
+
+ol li {
+    list-style-type: style;
+    margin: 0;
 }
 
 a {
     text-decoration: none;
-    color: #000000;
+    color: #1d1d39;
     font-weight: bolder;
 }
 
 blockquote {
-    background: #eeeeee;
-    border-left: #888888 solid 2px;
-    border-radius: 5px;
-    color: #888;
+    background: #fff;
+    border-left: #1d1d39 solid 2px;
+    /* border-radius: 5px; */
     font-family: monospace;
     font-style: italic;
     margin: 10px 40px;
     margin-bottom: 20px;
-    padding: 5px 6px;
+    padding: 5px 10px 5px 14px;
 }
 
 a:hover {
-    color: rgb(0, 17, 255);
+    color: #0707b1;
 }
