@@ -3,11 +3,13 @@
         <h1>sections</h1>
         <ul>
             {{ range .Sections}}
-                <a href="{{ .Permalink }}">
-                    <li style="margin-bottom: 10px">
+                
+                <li style="margin-bottom: 10px">
+                    <a href="{{ .Permalink }}">
                         {{ .Title }}
-                    </li>
-                </a>
+                    </a>
+                </li>
+                
             {{ end }}
         </ul>
         <hr>
@@ -15,11 +17,14 @@
     {{ if .RegularPages }}
         <ul>
             {{ range .RegularPages }}
-                <a href="{{ .Permalink }}">
-                    <li>
-                        {{ .Title }} &nbsp;&nbsp;-&nbsp;&nbsp;  {{ .Date.Format "2006-Jan-02" }}
-                    </li>
-                </a>
+                <li style="border-bottom: 0.3px solid #efefef;border-left: 0.3px solid #efefef;padding:0 0 2px 5px">
+                    <div style="position: relative;">
+                        <a href="{{ .Permalink }}">
+                            <div style="display: inline-block;width: 80%;">{{ .Title }}</div>
+                            <div style="position:absolute;font-size:0.8em;right:0;bottom: 0;">{{ .Date.Format "2006-Jan-02" }}</div>
+                        </a>
+                    </div>
+                </li>
             {{ end }}
         </ul>
     {{ end }}

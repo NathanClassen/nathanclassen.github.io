@@ -3,11 +3,8 @@ title: "home"
 date: 2021-10-22T17:11:22-06:00
 draft: false
 ---
-
-# _projects_
-
 <a href="https://bento-video.github.io/" target="_blank">
-    <h1>Bento</h1>
+    <h2>Bento</h2>
 </a>
 
 ![Bento icon](/images/Bento.png)  
@@ -24,7 +21,7 @@ lightning fast transcoding jobs.
 
 ---
 <a href="https://cantorpsalms.com" target="_blank">
-    <h1>Cantor</h1>
+    <h2>Cantor</h2>
 </a>
 
 ![Cantor icon](/images/Cantor.png)
