@@ -1,4 +1,4 @@
-FROM hugox as builder
+FROM nathanclassen/hugo as builder
 
 WORKDIR /usr/site
 

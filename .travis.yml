@@ -1,0 +1,18 @@
+language: generic
+sudo: required
+
+serivces:
+  - docker
+
+deploy:
+  provider: elasticbeanstalk
+  region: "us-east-1"
+  app: "nhclassen"
+  env: "Nhclassen-env"
+  bucket_name: "elasticbeanstalk-us-east-1-646349097775"
+  # the bucket is used for all of the EBS envs (apps) you create; bucket_path is specific to this application in particular
+  bucket_path: "nhclassen"
+  on:
+    branch: ebs-master
+  access_key_id: "$AWS_ACCESS_KEY"
+  secret_access_key: "$AWS_SECRET_KEY"

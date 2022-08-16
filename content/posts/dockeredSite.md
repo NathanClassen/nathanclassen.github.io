@@ -11,7 +11,7 @@ want to build and serve the site in a container, as I don't want to have to buil
 the idea is, copy my project into a container, use Hugo to build the site (will need to have hugo installed in the container), and finally, get an
 nginx server running to serve the site
 
-first I spin up a conteiner based on <\image>
+first I spin up a container based on <\image>
     chose this one because it is small, and would be easy enough to install Hugo into the container
 
 now, I know this is not typically done, by I created my Hugo equipped image via `docker commit` 
@@ -26,3 +26,6 @@ then for the serve phase, base off the nginx image and copy all of the static as
 `COPY --from=builder /usr/site/public /usr/share/nginx/html`
 
 with the assets located in `/usr/share/nginx/html` the nginx container will start up the server by default and serve the files from the former directory
+
+go through entire process for deploying to AWS
+    - what service to use on AWS?
