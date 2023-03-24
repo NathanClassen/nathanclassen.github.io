@@ -51,6 +51,10 @@ img {
     width: 105px;
 }
 
+.inline-block-div {
+    display: inline-block;
+}
+
 .nav-item {
     display: inline-block;
     margin: 0 5px;
