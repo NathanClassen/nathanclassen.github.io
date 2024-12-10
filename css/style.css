@@ -15,7 +15,7 @@ h1 {
 }
 
 #header {
-    border-bottom: #1d1d39 solid 2px;
+    /* border-bottom: #1d1d39 solid 2px; */
     margin-bottom: 20px;
     text-align: right;
     width: 100%;
